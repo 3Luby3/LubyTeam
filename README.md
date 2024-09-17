@@ -29,20 +29,19 @@
 ## 现任管理员
 $\color{orange}{\textsf{3Luby3}}$：【团长】
 
-$\color{red}{\textsf{zhuxiangrui_2010 
-}}$：【红名大佬】
+$\color{red}{\textsf{zhuxiangrui\_2010 }}$：【红名大佬】
 
-$\color{red}{\textsf{IOI_officialaccount}}$：【红名大佬】
+$\color{red}{\textsf{IOI\_officialaccount}}$：【红名大佬】
 
-$\color{orange}{\textsf{HJC_666}}$：【为团队做出贡献】
+$\color{orange}{\textsf{HJC\_666}}$：【为团队做出贡献】
 
-$\color{orange}{\textsf{AC_zzh2013}}$：【为团队做出贡献】
+$\color{orange}{\textsf{AC\_zzh2013}}$：【为团队做出贡献】
 
 $\color{green}{\textsf{0xllllllllllf}}$：【管理员比赛成绩优异】
 
-$\color{green}{\textsf{man_8_24}}$：【管理员比赛】
+$\color{green}{\textsf{man\_8\_24}}$：【管理员比赛】
 
-$\color{green}{\textsf{Shine__star}}$：【管理员比赛成绩优异】
+$\color{green}{\textsf{Shine\_\_star}}$：【管理员比赛成绩优异】
 
 $\color{green}{\textsf{panbojun}}$：【管理员比赛成绩优异】
 
